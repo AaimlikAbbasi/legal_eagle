@@ -60,4 +60,20 @@ This Java project is a Legal Case Management System that integrates seamlessly w
 
 - Special thanks to Laraib fatima for their contributions and support.
 ![10](https://github.com/AaimlikAbbasi/legal_eagle/assets/96013254/f9be1551-d2cd-404d-af36-cfa188293119)
+![8](https://github.com/AaimlikAbbasi/legal_eagle/assets/96013254/fdf426b8-fd7a-46be-8816-2047d4bf3417)
+![7](https://github.com/AaimlikAbbasi/legal_eagle/assets/96013254/6d3b5230-d208-443e-9d55-35d3190f52dc)
+![five](https://github.com/AaimlikAbbasi/legal_eagle/assets/96013254/c1f4e40c-dbb1-42d2-b125-c68335096269)
+![six](https://github.com/AaimlikAbbasi/legal_eagle/assets/96013254/94dde1b8-94f6-4402-b55f-113548b1fbf4)
+![4](https://github.com/AaimlikAbbasi/legal_eagle/assets/96013254/9ed7b9ac-4327-40de-ac71-4b3a826e1743)
+![three](https://github.com/AaimlikAbbasi/legal_eagle/assets/96013254/4e41d4d7-adb3-49db-8363-e9a91bf37794)
+![two](https://github.com/AaimlikAbbasi/legal_eagle/assets/96013254/2880d28c-f57e-4578-b11a-d363d8a8b719)
+![one](https://github.com/AaimlikAbbasi/legal_eagle/assets/96013254/d0b9f6d9-7220-4e35-9f1c-a325f7e05244)
+
+
+
+
+
+
+
+
 
