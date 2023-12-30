@@ -51,12 +51,13 @@ This Java project is a Legal Case Management System that integrates seamlessly w
 
 ## Contributors
 
-- [AAIMLIK ABBSI ]
-- [SYDA LARAIB FATIME]
+- AAIMLIK ABBSAI 
+- SYDA LARAIB FATIMA
 
 
 
 ## Acknowledgments
 
-- Special thanks to [Laraib fatima] for their contributions and support.
+- Special thanks to Laraib fatima for their contributions and support.
+![10](https://github.com/AaimlikAbbasi/legal_eagle/assets/96013254/f9be1551-d2cd-404d-af36-cfa188293119)
 
